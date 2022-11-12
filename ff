@@ -1,0 +1,1386 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js ie9 oldie" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="preload" href="//www.google-analytics.com/analytics.js" as="script">
+<link rel="preload" href="//wurfl.io/wurfl.js" as="script">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//wurfl.io">
+<link rel="alternate" href="https://sdpaintingcontractors.co.uk/" hreflang="en-gb">
+<link rel="canonical" href="https://sdpaintingcontractors.co.uk/" />
+<title>New Build Painter, Painting Contractor Manchester Liverpool North-West</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script
+				src="//www.googletagmanager.com/gtag/js?id=UA-139432273-1"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '8.10.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-139432273-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = monsterinsights_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+															__gtagTracker('config', 'UA-139432273-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<link rel='stylesheet' id='wp-block-library-css'  href='https://sdpaintingcontractors.co.uk/core/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type='text/javascript' src='https://sdpaintingcontractors.co.uk/content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.10.0' id='monsterinsights-frontend-script-js'></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/sdpaintingcontractors.co.uk","hash_tracking":"false","ua":"UA-139432273-1","v4_id":""};/* ]]> */
+</script>
+
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:1477682,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<!-- ============================================================================== -->
+<!--                                                                           META -->
+<!-- ============================================================================== -->
+<meta name="keywords" content="">
+<meta name="description" content="Find Specialist New Build Painter Contractors in Manchester, Liverpool and the North West at SD Painting. Residential, Apartment Blocks and more.">
+<meta name="robots" content="INDEX, FOLLOW">
+<!-- ============================================================================== -->
+<!--                                                                        OG TAGS -->
+<!-- ============================================================================== -->
+<meta name="title" property="og:title" content="New Build Painter, Painting Contractor Manchester Liverpool North-West">
+<meta name="description" property="og:description" content="Find Specialist New Build Painter Contractors in Manchester, Liverpool and the North West at SD Painting. Residential, Apartment Blocks and more.">
+<meta name="author" content="SDPC (NW) Ltd">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://sdpaintingcontractors.co.uk/">
+<meta name="image" property="og:image" content="https://sdpaintingcontractors.co.uk/images/optimised/siteimages/og-tag-default.png">
+<!-- ============================================================================== -->
+<!--                                                                  TWITTER CARDS -->
+<!-- ============================================================================== -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@">
+<meta name="twitter:creator" content="@">
+<meta name="twitter:title" content="New Build Painter, Painting Contractor Manchester Liverpool North-West">
+<meta name="twitter:description" content="Find Specialist New Build Painter Contractors in Manchester, Liverpool and the North West at SD Painting. Residential, Apartment Blocks and more.">
+<meta name="twitter:image" content="https://sdpaintingcontractors.co.uk/images/optimised/siteimages/og-tag-default.png">
+<!-- ============================================================================== -->
+<!--                                                                    MOBILE META -->
+<!-- ============================================================================== -->
+<!-- Viewport -->
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<!-- Android -->
+<meta name="mobile-web-app-capable" content="yes">
+<!-- iOS -->
+<meta name="apple-mobile-web-app-title" content="New Build Painter, Painting Contractor Manchester Liverpool North-West">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- ============================================================================== -->
+<!--                                                                         STYLES -->
+<!-- ============================================================================== -->
+<link rel="stylesheet" href="https://fast.fonts.net/cssapi/4152396e-9e38-429c-84db-f5f564ecc2ac.css" media="all">
+<link rel="stylesheet" href="https://sdpaintingcontractors.co.uk/content/themes/surepress/build/css/app.css" media="all">
+<style>
+  body {
+    color: #000000;
+  }
+  body, input, select, textarea, button {
+    font-family: 'Futura W01';
+  }
+  .layout-content article p,
+  .layout-content article ul,
+  .layout-content article ol {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  .layout-content article blockquote,
+  .layout-content article dl,
+  .layout-content article ol,
+  .layout-content article p,
+  .layout-content article pre,
+  .layout-content article ul,
+  .layout-content article img,
+  .layout-content article figure,
+  .layout-content article table,
+  .layout-content article .obj-embed-container {
+    margin-bottom: 1.5rem !important;
+  }
+  .layout-content article blockquote img,
+  .layout-content article dl img,
+  .layout-content article ol img,
+  .layout-content article p img,
+  .layout-content article pre img,
+  .layout-content article ul img,
+  .layout-content article img img,
+  .layout-content article figure img,
+  .layout-content article table img,
+  .layout-content article .obj-embed-container img {
+    margin-bottom: 0 !important;
+  }
+  .layout-content article blockquote:last-child,
+  .layout-content article dl:last-child,
+  .layout-content article ol:last-child,
+  .layout-content article p:last-child,
+  .layout-content article pre:last-child,
+  .layout-content article ul:last-child,
+  .layout-content article img:last-child,
+  .layout-content article figure:last-child,
+  .layout-content article table:last-child,
+  .layout-content article .obj-embed-container:last-child {
+    margin-bottom: 0 !important;
+  }
+  h1, .h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h1, .layout-content article .h1 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+  h2, .h2 {
+    font-size: 36px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h2, .layout-content article .h2 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+  h3, .h3 {
+    font-size: 28px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h3, .layout-content article .h3 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+  h4, .h4 {
+    font-size: 20px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h4, .layout-content article .h4 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+  h5, .h5 {
+    font-size: 18px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h5, .layout-content article .h5 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+  h6, .h6 {
+    font-size: 16px;
+    line-height: 1.2;
+    font-family: 'Rockwell® W01';
+  }
+  .layout-content article h6, .layout-content article .h6 {
+    margin: 0 0 1.5rem 0;
+    color: ;
+  }
+
+  .layout-content article h1:last-child, .layout-content article .h1:last-child,
+  .layout-content article h2:last-child, .layout-content article .h2:last-child,
+  .layout-content article h3:last-child, .layout-content article .h3:last-child,
+  .layout-content article h4:last-child, .layout-content article .h4:last-child,
+  .layout-content article h5:last-child, .layout-content article .h5:last-child,
+  .layout-content article h6:last-child, .layout-content article .h6:last-child {
+    margin-bottom: 0;
+  }
+
+  a, button {
+    color: #469dd7;
+  }
+  a:hover, button:hover, .menu-desktop li a:hover {
+    color: #000000;
+  }
+
+    .menu-desktop {
+  font-family: 'Rockwell® W01';
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.menu-desktop li a {
+  padding: .975rem 1.25rem;
+}
+
+.menu-social li a:hover {
+  color: #469dd7;
+}
+
+.layout-header__top__right {
+  line-height: 1.2;
+  text-align: right;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sp-comp-mast__inner__content__body {
+  max-width: 750px;
+  line-height: 1.5;
+}
+
+.sp-comp-boxouts__single__title {
+  font-family: 'Rockwell® W01';
+  font-size: 20px;
+}
+  
+
+.sp-comp-quote blockquote p {
+  font-weight: 200;
+}
+
+.sp-comp-posts-output .sp-comp-posts-output__single__content__header {
+  margin-bottom: 10px;
+  font-family: 'Rockwell® W01';
+  font-weight: 500;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.3;
+}
+.sp-case-studies.sp-comp-posts-output .sp-comp-posts-output__single__content__header {
+  text-align: center;
+}
+.sp-case-studies.sp-comp-posts-output .sp-comp-posts-output__single__content {
+  padding: 20px;
+}
+
+.btn {
+  border-width: 3px;
+  font-family: 'Rockwell® W01';
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.sp-comp-quote cite {
+  font-family: 'Rockwell® W01';
+  font-weight: bold;
+}
+
+.sp-comp-featured-items h3 {
+  font-family: 'Rockwell® W01';
+  font-weight: normal;
+}
+.sp-comp-featured-items__single__content__title {
+  font-family: 'Rockwell® W01';
+  font-weight: normal;
+}
+
+.sp-comp-cta-strip__copy {
+  line-height: 1.2;
+}
+.sp-comp-cta-strip__buttons .btn {
+  font-size: 20px;
+}
+.page-id-1096 .firstComponent {height: 100vh;display: flex;align-content: center;align-items: center;background-image: url(https://sdpaintingcontractors.co.uk/content/uploads/2022/08/h-bg-1-min.png);background-size: cover;background-position: center;;;}
+
+.page-id-1096 .layout-mobile-header, .page-id-1096 header.layout-header, .page-id-1096 footer.layout-footer {
+    display: none;
+}
+
+.page-id-1096 .col-50 {
+    display: inline-table;
+    width: 49%;
+    vertical-align: middle;
+}
+
+.page-id-1096 span.col-6 {
+    width: 41%;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #fff;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.page-id-1096 span.col-6 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #35A2D9;
+}
+
+.page-id-1096 span.col-6 span {
+    font-size: 16px;
+    display: block;
+    font-weight: 400;
+    color: #fff;
+}
+.page-id-1096 .sp-comp-code.padding-top-2.padding-bottom-2 {
+    display: none;
+}
+.page-id-1096 .sp-comp-content.layout-content.padding-top-0 {
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    width: -webkit-fill-available;
+}
+
+.page-id-1096 .sp-comp-content .menu-social li a .icon {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .page-id-1096 span.col-6 {
+    font-size: 30px;
+    margin: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+.page-id-1096 .col-50 {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.page-id-1096 span.col-6 {
+    width: 100%;
+margin:10px 0;
+}
+
+}  
+          .btn--light-blue { color: #FFFFFF; background-color: #469dd7; }
+    .btn--light-blue--disabled:hover, .btn--light-blue[disabled]:hover { color: #FFFFFF; background-color: #469dd7; }
+    .btn--light-blue:hover { color: #FFFFFF; background-color: #3f8dc1; }
+        .btn--dark-blue { color: #FFFFFF; background-color: #1f4965; }
+    .btn--dark-blue--disabled:hover, .btn--dark-blue[disabled]:hover { color: #FFFFFF; background-color: #1f4965; }
+    .btn--dark-blue:hover { color: #FFFFFF; background-color: #1b415a; }
+      
+    .btn--common { color: #FFFFFF; background-color: #469dd7; }
+  .btn--common--disabled:hover, .btn--common[disabled]:hover { color: #FFFFFF; background-color: #469dd7; }
+  .btn--common.btn--outline { border-color: #469dd7; color: #469dd7; background: none; }
+  .btn--common.btn--outline:hover { color: #FFFFFF; background: #469dd7; }
+  .btn--common:hover { color: #FFFFFF; background-color: #3f8dc1; }
+  </style>
+<!-- ============================================================================== -->
+<!--                                                                          ICONS -->
+<!-- ============================================================================== -->
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://sdpaintingcontractors.co.uk/content/themes/surepress/build/images/icons/app/favicon.png">
+<!-- ============================================================================== -->
+<!--                                                                         CONFIG -->
+<!-- ============================================================================== -->
+<script>
+window.config = {
+  name: "SDPC (NW) Ltd",
+  baseURL: "https://sdpaintingcontractors.co.uk/",
+  menus: {
+    primaryTitle: 'Menu',
+    primary: [{"title":"Home","href":"https:\/\/sdpaintingcontractors.co.uk\/","className":"","children":[],"type":"auto","exclude":""},{"title":"About Us","href":"https:\/\/sdpaintingcontractors.co.uk\/about-us\/","className":"","children":[],"type":"auto","exclude":""},{"title":"Health &#038; Safety","href":"https:\/\/sdpaintingcontractors.co.uk\/health-safety\/","className":"","children":[],"type":"auto","exclude":""},{"title":"What We Do","href":"https:\/\/sdpaintingcontractors.co.uk\/what-we-do\/","className":"","children":[],"type":"auto","exclude":""},{"title":"Our Policies","href":"https:\/\/sdpaintingcontractors.co.uk\/our-policies-and-commitments\/","className":"","children":[{"title":"Quality Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/our-policies-and-commitments\/1001-2\/","className":"","children":"","type":"auto","exclude":""},{"title":"Environmental Policy Statement","href":"https:\/\/sdpaintingcontractors.co.uk\/our-policies-and-commitments\/environmental-policy-statement\/","className":"","children":"","type":"auto","exclude":""},{"title":"Corporate Social Responsibility Policy Statement","href":"https:\/\/sdpaintingcontractors.co.uk\/our-policies-and-commitments\/corporate-social-responsibility-policy-statement\/","className":"","children":"","type":"auto","exclude":""},{"title":"Anti Bribery Policy Statement","href":"https:\/\/sdpaintingcontractors.co.uk\/anti-bribery-policy-statement\/","className":"","children":"","type":"auto","exclude":""},{"title":"Sustainability Policy Statement","href":"https:\/\/sdpaintingcontractors.co.uk\/sustainability-policy-statement\/","className":"","children":"","type":"auto","exclude":""},{"title":"Training Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/training-policy\/","className":"","children":"","type":"auto","exclude":""},{"title":"Diversity &#038; Equal Opportunity Statement","href":"https:\/\/sdpaintingcontractors.co.uk\/diversity-equal-opportunity-statement\/","className":"","children":"","type":"auto","exclude":""},{"title":"Drug and Alcohol Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/drug-and-alcohol-policy\/","className":"","children":"","type":"auto","exclude":""},{"title":"Modern Slavery Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/anti-slavery-policy\/","className":"","children":"","type":"auto","exclude":""},{"title":"Occupational Health &#038; Well-being Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/1056-2\/","className":"","children":"","type":"auto","exclude":""},{"title":"MORR Policy","href":"https:\/\/sdpaintingcontractors.co.uk\/morr-policy\/","className":"","children":"","type":"auto","exclude":""}],"type":"auto","exclude":""},{"title":"Case Studies","href":"https:\/\/sdpaintingcontractors.co.uk\/case-studies\/","className":"","children":[{"title":"Blog","href":"https:\/\/sdpaintingcontractors.co.uk\/blog\/","className":"","children":"","type":"auto","exclude":""}],"type":"auto","exclude":""},{"title":"Careers","href":"https:\/\/sdpaintingcontractors.co.uk\/careers\/","className":"","children":[],"type":"auto","exclude":""},{"title":"Contact Us","href":"https:\/\/sdpaintingcontractors.co.uk\/contact\/","className":"","children":[],"type":"auto","exclude":""}]  }
+}
+</script>
+<script>var Q = (key) => { return document.getElementsByName(key)[0] }</script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- ============================================================================== -->
+<!--                                                                      ANALYTICS -->
+<!-- ============================================================================== -->
+<script src="//www.google-analytics.com/analytics.js" async></script>
+<script>
+// Google Autotrack - https://github.com/googleanalytics/autotrack
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date
+// GA Account ID.
+ga('create', 'UA-23380792-1', 'auto')
+// Settings.
+ga('set', 'anonymizeIp', true)
+// GA Page View.
+ga('send', 'pageview', {
+  'dimension1': (typeof(WURFL) !== 'undefined') ? WURFL.complete_device_name : null,
+  'dimension2': (typeof(WURFL) !== 'undefined') ? WURFL.form_factor : null,
+  'dimension3': (typeof(WURFL) !== 'undefined') ? WURFL.is_mobile : null
+})
+</script>
+</head>
+<body class="home page-template-default page page-id-5 y2018 m12 d13 h13 page-parent">
+
+  <!-- Side -->
+	<div class="side"></div><!-- end .side -->
+  <!-- Page -->
+	<div class="page">
+    <!-- Header :: Mobile -->
+<div class="layout-mobile-header" aria-hidden="true">
+  <!-- Mobile Header :: Left -->
+  <div class="flex-1">
+    <a href="/">
+              <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/04/header-logo-update.png" alt="" style="max-width:180px;">
+          </a>
+  </div>
+  <!-- Mobile Header :: Right -->
+  <div class="display-flex align-items-center justify-content-flex-end">
+    <button data-js-event="sideMenu" style="height:32px;">
+      <i class="icon material-icons" style="font-size:34px;">menu</i>
+    </button>
+  </div>
+</div><!-- end .layout-mobile-header -->
+
+<!-- Header :: Desktop -->
+<header class="layout-header" role="banner">
+  <!-- Header :: Top -->
+  <div class="layout-header__top padding-top-1 padding-bottom-1 " style="">
+    <div class="container">
+      <!-- Grid -->
+      <div class="display-flex">
+        <!-- Col -->
+        <div class="flex-1">
+          <div class="layout-header__top__left">
+            <a href="/">
+                                              <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/04/header-logo-update.png" alt="" width="336" height="336">
+                          </a>
+          </div>
+        </div>
+        <!-- Col -->
+        <div class="display-flex align-items-center">
+          <div class="layout-header__top__center">
+						<ul class="menu-social" role="menu" data-menu="social">
+                							<li role="menuitem">
+  								<a href="https://www.facebook.com/SDPaintingContractors" class="text-color-social-facebook" target="_blank">
+  									<i class="icon socicon socicon-facebook"></i>
+  								</a>
+  							</li>
+                                            							<li role="menuitem">
+  								<a href="https://www.linkedin.com/company/sdpainting" class="text-color-social-linkedin" target="_blank">
+  									<i class="icon socicon socicon-linkedin"></i>
+  								</a>
+  							</li>
+                                            							<li role="menuitem">
+  								<a href="https://twitter.com/SDContractors" class="text-color-social-twitter" target="_blank">
+  									<i class="icon socicon socicon-twitter"></i>
+  								</a>
+  							</li>
+              						</ul>
+          </div>
+        </div>
+        <!-- Col -->
+        <div class="display-flex align-items-center margin-left-2">
+          <div class="layout-header__top__right">
+                          <div class="layout-header__top__right__support_text_1" style="font-size:16px;font-weight:normal;font-family:'Futura W01';color:#000000;">
+                Call The New Build Specialists              </div>
+                                      <div class="layout-header__top__right__support_text_2" style="font-size:32px;font-weight:bold;font-family:'Rockwell® W01';color:#469dd7;">
+                0161 667 4279              </div>
+                                      <div class="layout-header__top__right__support_text_3" style="font-size:20px;font-weight:normal;font-family:'Rockwell® W01';color:#469dd7;">
+                <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6f060109002f1c0b1f0e06011b060108410c00411a04">[email&#160;protected]</a>              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div><!-- end .layout-header__top -->
+  <!-- Header :: Bot -->
+  <div class="layout-header__bot" style="background-color:#469dd7;">
+    <nav class="navigation" role="navigation" aria-label="primary">
+      <!-- Desktop navigation -->
+      <ul class="menu-desktop" role="menu"><li class="nav-home menu-item-home page-item-5 current_page_item" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/">Home</a></li>
+<li class="nav-about-us" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/about-us/">About Us</a></li>
+<li class="nav-health-safety" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/health-safety/">Health &#038; Safety</a></li>
+<li class="nav-what-we-do" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/what-we-do/">What We Do</a></li>
+<li class="nav-our-policies has_sub_menu" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/our-policies-and-commitments/">Our Policies</a>
+<ul class="sub-menu" role="menu">
+	<li class="nav-quality-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/our-policies-and-commitments/1001-2/">Quality Policy</a></li>
+	<li class="nav-environmental-policy-statement" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/our-policies-and-commitments/environmental-policy-statement/">Environmental Policy Statement</a></li>
+	<li class="nav-corporate-social-responsibility-policy-statement" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/our-policies-and-commitments/corporate-social-responsibility-policy-statement/">Corporate Social Responsibility Policy Statement</a></li>
+	<li class="nav-anti-bribery-policy-statement" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/anti-bribery-policy-statement/">Anti Bribery Policy Statement</a></li>
+	<li class="nav-sustainability-policy-statement" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/sustainability-policy-statement/">Sustainability Policy Statement</a></li>
+	<li class="nav-training-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/training-policy/">Training Policy</a></li>
+	<li class="nav-diversity-equal-opportunity-statement" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/diversity-equal-opportunity-statement/">Diversity &#038; Equal Opportunity Statement</a></li>
+	<li class="nav-drug-and-alcohol-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/drug-and-alcohol-policy/">Drug and Alcohol Policy</a></li>
+	<li class="nav-modern-slavery-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/anti-slavery-policy/">Modern Slavery Policy</a></li>
+	<li class="nav-occupational-health-well-being-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/1056-2/">Occupational Health &#038; Well-being Policy</a></li>
+	<li class="nav-morr-policy" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/morr-policy/">MORR Policy</a></li>
+</ul>
+</li>
+<li class="nav-case-studies has_sub_menu" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/case-studies/">Case Studies</a>
+<ul class="sub-menu" role="menu">
+	<li class="nav-blog" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/blog/">Blog</a></li>
+</ul>
+</li>
+<li class="nav-careers" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/careers/">Careers</a></li>
+<li class="nav-contact-us" role="menuitem"><a href="https://sdpaintingcontractors.co.uk/contact/">Contact Us</a></li>
+</ul>    </nav>
+  </div><!-- end .layout-header__bot -->
+</header><!-- end .layout-header -->
+<!--[if lt IE 7]>
+	  	<div class="alert box warning">
+  		<div class="chrome-frame">You are using an outdated browser. <a href="http://browsehappy.com/" title="Browse Happy" target="_blank">Upgrade your browser today</a> or install <a href="http://www.google.com/chromeframe/?redirect=true" title="Chrome Frame" target="_blank">Google Chrome Frame</a> to better experience this site.</div>  	</div>
+  <![endif]-->
+
+<noscript>
+	</noscript>
+    <!-- Main -->
+    <main class="layout-main" role="main">
+      <!-- Comp :: Mast -->
+<div id="comp-636f6bc203875" class="sp-comp-mast large padding-bottom-0 firstComponent">
+  <style>
+  #comp-636f6bc203875.sp-comp-mast {
+    color: #FFFFFF;
+  }
+  #comp-636f6bc203875 .sp-comp-mast__inner {
+               background-image: url(https://sdpaintingcontractors.co.uk/content/uploads/2019/10/crown-st..jpg);
+      }
+  #comp-636f6bc203875 .sp-comp-mast__inner__content__header {
+    font-size: 80px;
+    font-weight: 700;
+    font-family: 'Rockwell® W01';
+  }
+  #comp-636f6bc203875 .sp-comp-mast__inner__content__body {
+    font-size: 30px;
+    font-weight: 400;
+    font-family: 'Futura W01';
+  }
+  #comp-636f6bc203875 .sp-comp-mast__inner__overlay {
+     background: rgba(10,0,0, 0.4);
+  }
+  </style>
+    <div class="sp-comp-mast__inner">
+      <div class="container container--large" style="height:100%;position:static;">        <div class="sp-comp-mast__inner__overlay"></div>        <div class="sp-comp-mast__inner__content">
+          <div class="sp-comp-mast__inner__content__header">
+            The New Build Painters          </div>
+          <div class="sp-comp-mast__inner__content__body">
+            We're a specialist New Build Painting Contractor working with House-builders and Main Contractors in Manchester, Liverpool and across the North West.          </div>
+                      <div class="sp-comp-mast__inner__content__buttons">
+              <a href="https://sdpaintingcontractors.co.uk/contact/" class="btn btn--large btn--common" target="">contact us today</a>
+            </div>
+                  </div>
+      </div>    </div>
+</div>
+<!-- Comp :: Logo Strip -->
+<div id="comp-636f6bc204b3d" class="sp-comp-logo-strip padding-top-0">
+  <style>
+  #comp-636f6bc204b3d.sp-comp-logo-strip {
+    color: ;
+    background-color: ;
+  }
+  </style>
+  <div class="container container--normal">    <div class="layout-content text-align-center u-text-center padding-bottom-1 u-pad-bottom">
+                </div>
+		<!-- Grid -->
+		<div class="flex-grid">
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-5">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://www.chas.co.uk/accreditation/products-packages/chas-premium-plus" target="_blank">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/10/CHAS-500x333-e1575463370430.jpg" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-5">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://www.constructionline.co.uk/" target="_blank">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/10/download-2-e1575463356493.jpg" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-5">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://www.cscs.uk.com/" target="_blank">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/10/download-3-e1575463413310.jpg" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-5">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://acclaimaccreditation.co.uk/" target="_blank">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/logo-acclaim-accreditation.png" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-5">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://www.qmsuk.com/iso-standards/iso-9001" target="_blank">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/11/ISO9001-e1575463437370.jpg" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+					</div>
+  </div></div>
+<style>
+  #comp-636f6bc207bb7.sp-comp-content {
+    color: #000000 !important;
+    background-color: ;
+  }
+  #comp-636f6bc207bb7.sp-comp-content p,
+  #comp-636f6bc207bb7.sp-comp-content ul,
+  #comp-636f6bc207bb7.sp-comp-content ol {
+    color: #000000 !important;
+  }
+</style>
+
+  <!-- Comp :: Content -->
+  <div id="comp-636f6bc207bb7" class="sp-comp-content layout-content padding-top-2 padding-bottom-2 padding-bottom-0">
+    <div class="container container--large sp-comp-content--single-col">
+      <article>
+        <h1 style="text-align: center;">The New Build Painting Contractor You Can Rely On</h1>
+<p style="text-align: left;"><span style="font-size: 22px;">Quality, Delivering to Programme and Competitive Rates are the three most important things to our clients, we know this and work every day to ensure this is what we deliver. Our team of new build painters and decorators are successfully working with most of the North Wests&#8217; leading house builders and main contractors. Our vision for the future is to become THE market leading new construction painting contractor known for the quality of its service AND finish. We look past the here and now to engage and build long standing relationships and will do this by consistently delivering exceptional customer service and quality at a reasonable price.</span></p>
+      </article>
+    </div>
+  </div><!-- end .sp-comp-content -->
+
+<!-- Comp :: Boxouts -->
+<div id="comp-636f6bc208e98" class="sp-comp-boxouts padding-top-2 padding-bottom-2">
+  <style>
+  #comp-636f6bc208e98 .sp-comp-boxouts__single__title {
+    background-color: #469dd7;
+  }
+  #comp-636f6bc208e98 .sp-comp-boxouts__single {
+    color: #FFFFFF;
+  }
+  #comp-636f6bc208e98 .sp-comp-boxouts__single__image__overlay {
+    background: rgba(,,, 0.75);
+  }
+  </style>
+  <div class="container container--normal">
+    
+    <!-- Grid -->
+    <div class="flex-grid flex-grid--center">
+                      <!-- Col -->
+        <div class="col-1 md:col-1-3">
+          <div class="sp-comp-boxouts__single">
+            <a href="https://sdpaintingcontractors.co.uk/what-we-do/" target=""></a>            <div class="sp-comp-boxouts__single__image">
+              <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/home-box-residential.jpg" alt="Residential Developments">
+              <div class="sp-comp-boxouts__single__image__overlay">
+                <p></p>
+              </div>
+            </div>
+            <div class="sp-comp-boxouts__single__title">
+              Residential Developments            </div>
+          </div><!-- end .sp-comp-boxouts__single -->
+        </div><!-- end .col -->
+                      <!-- Col -->
+        <div class="col-1 md:col-1-3">
+          <div class="sp-comp-boxouts__single">
+                        <div class="sp-comp-boxouts__single__image">
+              <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/home-box-apartment-blocks.jpg" alt="Apartment Blocks">
+              <div class="sp-comp-boxouts__single__image__overlay">
+                <p></p>
+              </div>
+            </div>
+            <div class="sp-comp-boxouts__single__title">
+              Apartment Blocks            </div>
+          </div><!-- end .sp-comp-boxouts__single -->
+        </div><!-- end .col -->
+                      <!-- Col -->
+        <div class="col-1 md:col-1-3">
+          <div class="sp-comp-boxouts__single">
+            <a href="https://sdpaintingcontractors.co.uk/case-study/bardsley-construction-manchester/" target=""></a>            <div class="sp-comp-boxouts__single__image">
+              <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/home-box-hotels-other-e1548575831334.jpg" alt="Hotels & Other New Construction">
+              <div class="sp-comp-boxouts__single__image__overlay">
+                <p></p>
+              </div>
+            </div>
+            <div class="sp-comp-boxouts__single__title">
+              Hotels & Other New Construction            </div>
+          </div><!-- end .sp-comp-boxouts__single -->
+        </div><!-- end .col -->
+          </div><!-- end .flex-grid -->
+  </div></div><!-- end .sp-comp-boxouts -->
+<style>
+  #comp-636f6bc20b76e.sp-comp-content {
+    color: #FFFFFF !important;
+    background-color: #469dd7;
+  }
+  #comp-636f6bc20b76e.sp-comp-content p,
+  #comp-636f6bc20b76e.sp-comp-content ul,
+  #comp-636f6bc20b76e.sp-comp-content ol {
+    color: #FFFFFF !important;
+  }
+</style>
+
+  <!-- Comp :: Fifty Split -->
+  <div id="comp-636f6bc20b76e" class="sp-comp-fifty-split ">
+    <style>
+    #comp-636f6bc20b76e .sp-comp-fifty-split__text {
+      color: #FFFFFF;
+      background-color: #469dd7;
+    }
+    #comp-636f6bc20b76e .sp-comp-fifty-split__image {
+      min-height: 480px;
+      background-image: url(https://sdpaintingcontractors.co.uk/content/uploads/2019/01/home-alt-50-50-1.jpg);
+    }
+    @media only screen and (max-width: 736px){
+      #comp-636f6bc20b76e .sp-comp-fifty-split__image {
+        min-height: 300px;
+      }
+    };
+    </style>
+          <div class="flex-grid flex-grid--no-gutter">
+                  <div class="col-1 md:col-1-2">
+            <div class="sp-comp-fifty-split__image"></div>
+          </div>
+          <div class="col-1 md:col-1-2">
+            <div class="sp-comp-fifty-split__text layout-content sp-comp-fifty-split__text--padright">
+              <article>
+                <h2>Why Work With Us&#8230;</h2>
+<ul>
+<li>Proven new build success over many years with fast paced builders</li>
+<li>Our team of 60+ painters are all fully qualified, new build specialists.</li>
+<li>100% CSCS compliant, stable, core workforce.</li>
+<li>CHAS Premium Plus Accreditation &#8211; H&amp;S onsite is very important to us!</li>
+<li>Competitive rates with <strong>Day 1 Final Accounting</strong> in mind.</li>
+<li>Separate Customer Care team on hand for any pre-handover touch ups (Production can keep going!)</li>
+<li>Ability to handle large projects (£1m+)</li>
+</ul>
+              </article>
+            </div>
+          </div>
+              </div>
+      </div>
+
+<style>
+  #comp-636f6bc20c529.sp-comp-content {
+    color: #FFFFFF !important;
+    background-color: #469dd7;
+  }
+  #comp-636f6bc20c529.sp-comp-content p,
+  #comp-636f6bc20c529.sp-comp-content ul,
+  #comp-636f6bc20c529.sp-comp-content ol {
+    color: #FFFFFF !important;
+  }
+</style>
+
+  <!-- Comp :: Fifty Split -->
+  <div id="comp-636f6bc20c529" class="sp-comp-fifty-split ">
+    <style>
+    #comp-636f6bc20c529 .sp-comp-fifty-split__text {
+      color: #FFFFFF;
+      background-color: #469dd7;
+    }
+    #comp-636f6bc20c529 .sp-comp-fifty-split__image {
+      min-height: 480px;
+      background-image: url(https://sdpaintingcontractors.co.uk/content/uploads/2019/01/home-alt-50-50-2.jpg);
+    }
+    @media only screen and (max-width: 736px){
+      #comp-636f6bc20c529 .sp-comp-fifty-split__image {
+        min-height: 300px;
+      }
+    };
+    </style>
+          <div class="flex-grid flex-grid--no-gutter">
+                  <div class="col-1 md:col-1-2 order-2 lg:order-1">
+            <div class="sp-comp-fifty-split__text layout-content sp-comp-fifty-split__text--padleft">
+              <article>
+                <h2>Our Core Values</h2>
+<ul>
+<li><span class="s2">Passionate about our business and the service we provide</span></li>
+<li><span class="s2">Consistent quality across all our sites through our ISO9001 QA/QC process</span></li>
+<li><span class="s2">Forging long lasting relationships with our clients</span></li>
+<li><span class="s2">Customer satisfaction measured through surveys before, during and after</span></li>
+<li><span class="s2">Professionalism that is apparent from first contact</span></li>
+</ul>
+              </article>
+            </div>
+          </div>
+          <div class="col-1 md:col-1-2 order-1 lg:order-2">
+            <div class="sp-comp-fifty-split__image"></div>
+          </div>
+              </div>
+      </div>
+
+<!-- Comp :: Boxouts -->
+<div id="comp-636f6bc20d458" class="sp-comp-featured-items padding-top-2 padding-bottom-2">
+  <style>
+  #comp-636f6bc20d458.sp-comp-featured-items, #comp-636f6bc20d458 .sp-comp-featured-items__single, #comp-636f6bc20d458 .sp-comp-featured-items__single a {
+    color: ;
+    background-color: ;
+  }
+  </style>
+  <div class="container container--normal">    <div class="layout-content text-align-center padding-bottom-2">
+              <h3 class="h2" style="margin:0 !important;">Recently Completed Projects...</h3>
+                </div>
+    <!-- Grid -->
+    <div class="flex-grid">
+              <!-- Col -->
+        <div class="col-1 md:col-1-4">
+          <div class="sp-comp-featured-items__single">
+            <figure class="sp-comp-featured-items__single__image">
+                            <a href="https://sdpaintingcontractors.co.uk/case-study/renaker-build-ltd-exchange-court/" target="">                <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/Exchange-Featured.jpg" alt="">
+              </a>            </figure>
+            <div class="sp-comp-featured-items__single__content">
+              <div class="sp-comp-featured-items__single__content__title">
+                <a href="https://sdpaintingcontractors.co.uk/case-study/renaker-build-ltd-exchange-court/" target="">                  Exchange Court                </a>              </div>
+              <div class="sp-comp-featured-items__single__content__description">
+                <p>Renaker Build Ltd</p>
+              </div>
+                              <div class="sp-comp-featured-items__single__content__link">
+                  <a href="https://sdpaintingcontractors.co.uk/case-study/renaker-build-ltd-exchange-court/" target=""></a>
+                </div>
+                          </div>
+          </div><!-- end .sp-comp-featured-items__single -->
+        </div><!-- end .col-1-* -->
+              <!-- Col -->
+        <div class="col-1 md:col-1-4">
+          <div class="sp-comp-featured-items__single">
+            <figure class="sp-comp-featured-items__single__image">
+                            <a href="https://sdpaintingcontractors.co.uk/case-study/jones-homes-west-acre-tarporley/" target="_blank">                <img src="https://sdpaintingcontractors.co.uk/content/uploads/2018/12/SD-Case-Study-Feature-Image-Jones-Homes.jpg" alt="New Build Painting - Jones Homes, Tarporley">
+              </a>            </figure>
+            <div class="sp-comp-featured-items__single__content">
+              <div class="sp-comp-featured-items__single__content__title">
+                <a href="https://sdpaintingcontractors.co.uk/case-study/jones-homes-west-acre-tarporley/" target="_blank">                  West Acre                </a>              </div>
+              <div class="sp-comp-featured-items__single__content__description">
+                <p>Jones Homes</p>
+              </div>
+                              <div class="sp-comp-featured-items__single__content__link">
+                  <a href="https://sdpaintingcontractors.co.uk/case-study/jones-homes-west-acre-tarporley/" target="_blank"></a>
+                </div>
+                          </div>
+          </div><!-- end .sp-comp-featured-items__single -->
+        </div><!-- end .col-1-* -->
+              <!-- Col -->
+        <div class="col-1 md:col-1-4">
+          <div class="sp-comp-featured-items__single">
+            <figure class="sp-comp-featured-items__single__image">
+                            <a href="https://sdpaintingcontractors.co.uk/case-study/bardsley-construction-manchester/" target="">                <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/Marriott-Featured.jpg" alt="">
+              </a>            </figure>
+            <div class="sp-comp-featured-items__single__content">
+              <div class="sp-comp-featured-items__single__content__title">
+                <a href="https://sdpaintingcontractors.co.uk/case-study/bardsley-construction-manchester/" target="">                  AC Marriott Hotel                </a>              </div>
+              <div class="sp-comp-featured-items__single__content__description">
+                <p>Cable Street, Manchester</p>
+              </div>
+                              <div class="sp-comp-featured-items__single__content__link">
+                  <a href="https://sdpaintingcontractors.co.uk/case-study/bardsley-construction-manchester/" target=""></a>
+                </div>
+                          </div>
+          </div><!-- end .sp-comp-featured-items__single -->
+        </div><!-- end .col-1-* -->
+              <!-- Col -->
+        <div class="col-1 md:col-1-4">
+          <div class="sp-comp-featured-items__single">
+            <figure class="sp-comp-featured-items__single__image">
+                            <a href="https://sdpaintingcontractors.co.uk/case-study/keyworker-homes-hope-gardens-macclesfield/" target="_blank">                <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/Durban-Featured.jpg" alt="">
+              </a>            </figure>
+            <div class="sp-comp-featured-items__single__content">
+              <div class="sp-comp-featured-items__single__content__title">
+                <a href="https://sdpaintingcontractors.co.uk/case-study/keyworker-homes-hope-gardens-macclesfield/" target="_blank">                  Durban Mill                </a>              </div>
+              <div class="sp-comp-featured-items__single__content__description">
+                <p>Countryside Properties</p>
+              </div>
+                              <div class="sp-comp-featured-items__single__content__link">
+                  <a href="https://sdpaintingcontractors.co.uk/case-study/keyworker-homes-hope-gardens-macclesfield/" target="_blank"></a>
+                </div>
+                          </div>
+          </div><!-- end .sp-comp-featured-items__single -->
+        </div><!-- end .col-1-* -->
+          </div><!-- end .flex-grid -->
+  </div></div><!-- end .sp-comp-featured-items -->
+<!-- Comp :: Quote -->
+<div id="comp-636f6bc2120c9" class="sp-comp-quote padding-top-3 padding-bottom-3 ">
+  <style>
+  #comp-636f6bc2120c9.sp-comp-quote {
+    color: #FFFFFF;
+              background-image: url(https://sdpaintingcontractors.co.uk/content/uploads/2018/12/quote-bg-1.jpg);
+      }
+  #comp-636f6bc2120c9.sp-comp-quote p {
+    font-size: 34px;
+  }
+  #comp-636f6bc2120c9 .sp-comp-quote__overlay {
+     background: rgba(,,, 0.75);
+  }
+  #comp-636f6bc2120c9.sp-comp-quote blockquote p {
+    font-family: 'Futura W01'  }
+  </style>
+          <div data-js-event="quoteSlider">
+              <blockquote class="sp-comp-quote__quote">
+          <div class="container container--medium">            <p>"Brilliant company to work with - honest, hardworking and very approachable. Labour onsite is consistent, and the final account is always easily agreed. All in all, would highly recommend."</p>
+            <cite>Curtis Huynh - Senior Quantity Surveyor, Bardsley Construction</cite>
+          </div>        </blockquote>
+              <blockquote class="sp-comp-quote__quote">
+          <div class="container container--medium">            <p>"Thank you so much for your assistance on sites. The rapid response from your company and overall standard of work has been impeccable."</p>
+            <cite>Martin Opara - Commercial Manager, GallifordTry Partnerships</cite>
+          </div>        </blockquote>
+          </div>
+  </div>
+<!-- Comp :: Logo Strip -->
+<div id="comp-636f6bc214175" class="sp-comp-logo-strip padding-top-2 padding-bottom-2 padding-bottom-0">
+  <style>
+  #comp-636f6bc214175.sp-comp-logo-strip {
+    color: ;
+    background-color: ;
+  }
+  </style>
+  <div class="container container--normal">    <div class="layout-content text-align-center u-text-center padding-bottom-1 u-pad-bottom">
+              <h3 class="h2">Delivering Outstanding Results for...</h3>
+                </div>
+		<!-- Grid -->
+		<div class="flex-grid">
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="https://www.domisconstruction.co.uk/" target="">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/12/Domis-e1575466195287.png" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/12/David-Wilson-Homes-Logo-e1575464828785.jpg" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            <a href="http://www.renakerbuild.com/" target="">				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/12/Renaker-e1575464642226.jpg" alt="">
+            </a>				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-anwyl.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/Bardsley-e1575464404360.jpg" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-jones-homes.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-7">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-mci.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+					</div>
+  </div></div>
+<!-- Comp :: Logo Strip -->
+<div id="comp-636f6bc2173fb" class="sp-comp-logo-strip ">
+  <style>
+  #comp-636f6bc2173fb.sp-comp-logo-strip {
+    color: ;
+    background-color: ;
+  }
+  </style>
+  <div class="container container--normal">    <div class="layout-content text-align-center u-text-center padding-bottom-1 u-pad-bottom">
+                </div>
+		<!-- Grid -->
+		<div class="flex-grid">
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-4">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-galliford.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-4">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-create-construction.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-4">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/01/partner-countryside.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+			
+				<!-- Col -->
+				<div class="col-1-2 md:col-1-3 lg:col-1-4">
+				  <div class="sp-comp-logo-strip__single">
+            				      <img src="https://sdpaintingcontractors.co.uk/content/uploads/2019/06/elan-logos-03-002-300x300.png" alt="">
+            				  </div>
+				</div><!-- .col-1 -->
+
+					</div>
+  </div></div>
+<!-- Comp :: CTA Strip -->
+<div id="comp-636f6bc21928b" class="sp-comp-cta-strip">
+  <style>
+  #comp-636f6bc21928b.sp-comp-cta-strip {
+    color: #FFFFFF;
+  }
+  #comp-636f6bc21928b .sp-comp-cta-strip__copy__title {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Rockwell® W01';
+  }
+  #comp-636f6bc21928b .sp-comp-cta-strip__copy__subtitle {
+    font-size: 32px;
+    font-weight: 400;
+    font-family: 'Futura W01';
+  }
+  #comp-636f6bc21928b .sp-comp-cta-strip__inner {
+    background-color: #469dd7;
+  }
+  </style>
+      <div class="sp-comp-cta-strip__inner text-align-center md:text-align-left padding-top-2 padding-bottom-2">
+      <div class="container">        <div class="flex-grid flex-grid--1">
+          <div class="col-1 md:col-2-3">
+            <div class="sp-comp-cta-strip__copy">
+              <div class="sp-comp-cta-strip__copy__title">Need a Professional Painting Contractor?</div>
+              <div class="sp-comp-cta-strip__copy__subtitle"></div>
+            </div>
+          </div>
+                      <div class="col-1 md:col-1-3">
+              <div class="md:display-flex md:align-items-center height-1">
+                <a href="https://sdpaintingcontractors.co.uk/contact/" class="btn btn--extralarge btn--color-white btn--outline" target="">Get in Touch</a>
+              </div>
+            </div>
+                  </div>
+          </div>
+  </div>
+<!-- Comp :: Code -->
+<div id="comp-636f6bc21a63e" class="sp-comp-code padding-top-2 padding-bottom-2">
+  <style>
+  #comp-636f6bc21a63e.sp-comp-code {
+    color: default;
+    background-color: default;
+  }
+  </style>
+  <div class="container container--normal">    <div class="sp-comp-code__title">
+          </div>
+    <div class="sp-comp-code__subtitle">
+          </div>
+    <div class="sp-comp-code__code">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-146923698-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146923698-1');
+</script>
+    </div>
+  </div></div><!-- end .sp-comp-code -->
+    </main>
+    <!-- Footer -->
+<footer class="layout-footer" role="contentinfo" style="">
+
+	<!-- Footer :: Top -->
+	<div class="padding-top-2 padding-bottom-2 text-color-white" style="background:#294963;">
+		<div class="container">
+			<!-- Grid -->
+			<div class="flex-grid">
+
+				<!-- Col -->
+				<div class="col-1 md:col-1-2">
+					<div class="layout-footer__top__left">
+						<div class="margin-bottom-1">
+							<a href="/">
+								<img src="https://sdpaintingcontractors.co.uk/content/themes/surepress/build/images//logo-footer.png">
+							</a>
+						</div>
+						<p class="margin-bottom-1">Professional painters and decorators with a passion for quality.</p>
+						<ul class="menu-social" role="menu" data-menu="social">
+                							<li role="menuitem">
+  								<a href="https://www.facebook.com/SDPaintingContractors" class="text-color-white" target="_blank">
+  									<i class="icon socicon socicon-facebook"></i>
+  								</a>
+  							</li>
+                                            							<li role="menuitem">
+  								<a href="https://www.linkedin.com/company/sdpainting" class="text-color-white" target="_blank">
+  									<i class="icon socicon socicon-linkedin"></i>
+  								</a>
+  							</li>
+                                            							<li role="menuitem">
+  								<a href="https://twitter.com/SDContractors" class="text-color-white" target="_blank">
+  									<i class="icon socicon socicon-twitter"></i>
+  								</a>
+  							</li>
+              						</ul>
+					</div>
+  			</div><!-- end .col -->
+
+				<!-- Col -->
+				<div class="col-1 md:col-1-2">
+					<!-- Grid -->
+					<div class="flex-grid">
+						<!-- Col -->
+						<div class="col-1 md:col-1-2">
+							<p style="font-family:'Rockwell® W01';font-weight:bold;font-size:20px;margin-bottom:15px;">Head Office</p>
+							<p style="margin-bottom:15px;line-height:1.8;">
+								Office 1<br>
+								Big Trade Park<br>
+								Earl Road<br>
+								Cheadle Hulme<br>
+								SK8 6PT
+							</p>
+							<p>T. 0161 667 4279</p>
+  					</div><!-- end .col -->
+						<!-- Col -->
+						<div class="col-1 md:col-1-2">
+							<p style="font-family:'Rockwell® W01';font-weight:bold;font-size:20px;margin-bottom:15px;">Manchester Office</p>
+							<p style="margin-bottom:15px;line-height:1.8;">
+								Commercial House<br>
+								West Point Enterprise Park<br>
+								Clarence Avenue<br>
+								Manchester<br>
+								M17 1QS
+							</p>
+							<p>T. 0161 667 4279</p>
+  					</div><!-- end .col -->
+					</div><!-- end .flex-grid -->
+
+  			</div><!-- end .col -->
+
+			</div><!-- end .flex-grid -->
+		</div>
+	</div><!-- end .layout-footer__top -->
+
+	<!-- Footer :: Bot -->
+	<div class="padding-top-1 padding-bottom-1">
+		<div class="container">
+			<!-- Grid -->
+			<div class="flex-grid">
+
+				<!-- Col -->
+				<div class="col-1 md:col-2-3">
+					<div class="text-align-center md:text-align-left">
+						&copy; Copyright SDPC (NW) Ltd 2022.
+						&nbsp; | &nbsp;
+						<a href="https://sdpaintingcontractors.co.uk/modern-slavery-act-2015/">Modern Slavery Act</a>
+						&nbsp; | &nbsp;
+						<a href="https://sdpaintingcontractors.co.uk/privacy-policy-2/">Privacy Policy</a>
+					</div>
+  			</div><!-- end .col -->
+
+				<!-- Col -->
+				<div class="col-1 md:col-1-3">
+					<div class="text-align-center md:text-align-right">
+						Web Design by <a href="https://surefiremedia.co.uk" target="_blank">Surefire Media</a>
+					</div>
+  			</div><!-- end .col -->
+
+			</div><!-- end .flex-grid -->
+		</div>
+	</div><!-- end .layout-footer__bot -->
+
+</footer>
+  </div><!-- end .page -->
+
+<!-- ============================================================================== -->
+<!--                                                                     JAVASCRIPT -->
+<!-- ============================================================================== -->
+<script src="https://sdpaintingcontractors.co.uk/content/themes/surepress/build/js/common.js"></script>
+<script src="https://sdpaintingcontractors.co.uk/content/themes/surepress/build/js/app.js"></script>
+</body>
+</html>
